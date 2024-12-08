@@ -15,4 +15,4 @@
     a = b + c
 끝났나?
 
-<img src="" width="500">
+<img src="/스크린샷 2024-12-07 225011.png" width="500" height="250">
