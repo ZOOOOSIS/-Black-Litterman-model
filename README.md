@@ -23,12 +23,8 @@
 
 
 #### 6. 펀드의 기대 수익률: 13.8246% / 표준편차: 15.6173%
-
+![SWIC_stock_allocation_result](https://github.com/user-attachments/assets/b6bc64a0-3d92-499d-8827-c439ac9b5ddc)
 
 ---
 #### 해당 펀드 내 주식의 비중을 정하기 위해 Black Litterman model 활용하였습니다.
 [여기에서](https://pleasurehwang.tistory.com/14) 해당 모델에 대한 간략한 한글 소개를 볼 수 있습니다.
----
-#### 1. 시가총액 비율 설정
-
-자산 배분 대상이 되는 종목들의 시가총액 비율이 필요합니다. 
